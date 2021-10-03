@@ -1,0 +1,6 @@
+{
+
+"mongoURI":"mongodb+srv://vansh:devgan@devconnector-zltus.mongodb.net/test?retryWrites=true&w=majority",
+"jwtSecret":"you_can_never_find_me"
+
+}
